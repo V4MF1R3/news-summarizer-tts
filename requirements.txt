@@ -1,0 +1,10 @@
+streamlit
+flask
+requests
+transformers
+torch
+scipy
+pandas
+gtts
+spacy
+python-dotenv
