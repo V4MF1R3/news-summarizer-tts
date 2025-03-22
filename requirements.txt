@@ -8,3 +8,4 @@ pandas
 gtts
 spacy
 python-dotenv
+translate
